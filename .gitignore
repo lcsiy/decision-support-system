@@ -29,3 +29,6 @@ Thumbs.db
 # Project runtime data
 data/
 logs/
+
+# Internal design docs (not published)
+docs/
