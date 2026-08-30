@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Environment
+.env
+.venv/
+venv/
+
+# IDE
+.vscode/
+.idea/
+
+# Testing
+.pytest_cache/
+
+# Claude config (may contain tokens)
+.claude/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Project runtime data
+data/
+logs/
